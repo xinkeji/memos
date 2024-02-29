@@ -1,4 +1,4 @@
-<p align="center"><a href="https://usememos.com"><img height="64px" src="https://raw.githubusercontent.com/eallion/memos.top/main/assets/img/logo-full.webp" alt="✍️ memos" /></a></p>
+ <p align="center"><a href="https://usememos.com"><img height="64px" src="https://raw.githubusercontent.com/eallion/memos.top/main/assets/img/logo-full.webp" alt="✍️ memos" /></a></p>
 
 <p align="center">Memos Top. A static page rendered with the Memos API.</p>
 <p align="center">Simple HTML, Pure CSS, Vanilla JS.</p>
